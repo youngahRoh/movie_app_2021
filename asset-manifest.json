@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/youngahRoh.github.io/movie_app_2021/static/css/main.055c870e.chunk.css",
-    "main.js": "/youngahRoh.github.io/movie_app_2021/static/js/main.40f104e6.chunk.js",
-    "main.js.map": "/youngahRoh.github.io/movie_app_2021/static/js/main.40f104e6.chunk.js.map",
-    "runtime-main.js": "/youngahRoh.github.io/movie_app_2021/static/js/runtime-main.9cfcd38a.js",
-    "runtime-main.js.map": "/youngahRoh.github.io/movie_app_2021/static/js/runtime-main.9cfcd38a.js.map",
-    "static/js/2.f808519a.chunk.js": "/youngahRoh.github.io/movie_app_2021/static/js/2.f808519a.chunk.js",
-    "static/js/2.f808519a.chunk.js.map": "/youngahRoh.github.io/movie_app_2021/static/js/2.f808519a.chunk.js.map",
-    "index.html": "/youngahRoh.github.io/movie_app_2021/index.html",
-    "static/css/main.055c870e.chunk.css.map": "/youngahRoh.github.io/movie_app_2021/static/css/main.055c870e.chunk.css.map",
-    "static/js/2.f808519a.chunk.js.LICENSE.txt": "/youngahRoh.github.io/movie_app_2021/static/js/2.f808519a.chunk.js.LICENSE.txt"
+    "main.css": "/youngahroh.github.io/movie_app_2021/static/css/main.055c870e.chunk.css",
+    "main.js": "/youngahroh.github.io/movie_app_2021/static/js/main.40f104e6.chunk.js",
+    "main.js.map": "/youngahroh.github.io/movie_app_2021/static/js/main.40f104e6.chunk.js.map",
+    "runtime-main.js": "/youngahroh.github.io/movie_app_2021/static/js/runtime-main.f3aa29d4.js",
+    "runtime-main.js.map": "/youngahroh.github.io/movie_app_2021/static/js/runtime-main.f3aa29d4.js.map",
+    "static/js/2.f808519a.chunk.js": "/youngahroh.github.io/movie_app_2021/static/js/2.f808519a.chunk.js",
+    "static/js/2.f808519a.chunk.js.map": "/youngahroh.github.io/movie_app_2021/static/js/2.f808519a.chunk.js.map",
+    "index.html": "/youngahroh.github.io/movie_app_2021/index.html",
+    "static/css/main.055c870e.chunk.css.map": "/youngahroh.github.io/movie_app_2021/static/css/main.055c870e.chunk.css.map",
+    "static/js/2.f808519a.chunk.js.LICENSE.txt": "/youngahroh.github.io/movie_app_2021/static/js/2.f808519a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9cfcd38a.js",
+    "static/js/runtime-main.f3aa29d4.js",
     "static/js/2.f808519a.chunk.js",
     "static/css/main.055c870e.chunk.css",
     "static/js/main.40f104e6.chunk.js"
