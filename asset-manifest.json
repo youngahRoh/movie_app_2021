@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/youngahroh.github.io/movie_app_2021/static/css/main.055c870e.chunk.css",
-    "main.js": "/youngahroh.github.io/movie_app_2021/static/js/main.40f104e6.chunk.js",
-    "main.js.map": "/youngahroh.github.io/movie_app_2021/static/js/main.40f104e6.chunk.js.map",
+    "main.js": "/youngahroh.github.io/movie_app_2021/static/js/main.f8f14963.chunk.js",
+    "main.js.map": "/youngahroh.github.io/movie_app_2021/static/js/main.f8f14963.chunk.js.map",
     "runtime-main.js": "/youngahroh.github.io/movie_app_2021/static/js/runtime-main.f3aa29d4.js",
     "runtime-main.js.map": "/youngahroh.github.io/movie_app_2021/static/js/runtime-main.f3aa29d4.js.map",
     "static/js/2.f808519a.chunk.js": "/youngahroh.github.io/movie_app_2021/static/js/2.f808519a.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.f3aa29d4.js",
     "static/js/2.f808519a.chunk.js",
     "static/css/main.055c870e.chunk.css",
-    "static/js/main.40f104e6.chunk.js"
+    "static/js/main.f8f14963.chunk.js"
   ]
 }
